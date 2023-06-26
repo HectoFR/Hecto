@@ -1,5 +1,10 @@
 `Hecto` is a web client for the well known calorie and nutrition tracking app YAZIO.
 
+# Disclaimer
+
+This project has nothing to do with the [YAZIO](https://www.yazio.com/en) app.
+If anyone from YAZIO sees this and wants me to stop the project, please tell me.
+
 # Preview
 
 ![Preview](./preview.png)
@@ -37,8 +42,3 @@ npm run serve
 ```
 
 Go to [http://localhost:8080](http://localhost:8080) to see the result.
-
-# Disclaimer
-
-This project has nothing to do with the [YAZIO](https://www.yazio.com/en) app.
-If anyone from YAZIO sees this and wants me to stop the project, please tell me.
